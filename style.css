@@ -20,6 +20,10 @@
   color: #bb65b4;
   font-weight: bold;
 }
+.card-body-p{
+  font-weight: bolder;
+  font-size: 15px;
+}
 
 
 #introduction{
